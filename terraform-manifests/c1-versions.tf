@@ -27,6 +27,6 @@ provider "azurerm" {
 }
 
 # Simple comment to test
-# QA, Stage and Prod env added
+# QA, Stage and Prod env added to do the final test for all the envs
 
 
